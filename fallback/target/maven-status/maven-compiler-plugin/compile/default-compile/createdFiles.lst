@@ -1,0 +1,6 @@
+com\edu\neu\FallBackApplication.class
+com\edu\neu\config\CountryServiceFallbackFactory$1.class
+com\edu\neu\service\CountryService.class
+com\edu\neu\domain\Country.class
+com\edu\neu\controller\CountryController.class
+com\edu\neu\config\CountryServiceFallbackFactory.class
